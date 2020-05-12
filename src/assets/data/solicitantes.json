@@ -1,0 +1,2070 @@
+[
+{
+    "_id" : "ObjectId:5c1db4c983ca0149a7c568bc",
+    "nombre" : "David Eduardo",
+    "apaterno" : "Palacios",
+    "amaterno" : "González",
+    "fechanac" : "1994-11-28",
+    "sexo" : "Masculino",
+    "email" : "da.palacios871@gmail.com",
+    "calle" : "Portal de cordova",
+    "colonia" : "Rinconada de la torres",
+    "cp" : 32575,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c1db4c983ca0149a7c568bf",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Psicología",
+            "Materia" : "Psicología General?"
+        }, 
+        {
+            "_id" : "ObjectId:5c1db4c983ca0149a7c568be",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Psicología",
+            "Materia" : "Psicometría"
+        }, 
+        {
+            "_id" : "ObjectId:5c1db4c983ca0149a7c568bd",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Psicología",
+            "Materia" : "Psicología Experimental"
+        }
+    ],
+    "numero" : 897,
+    "telefono" : 6561495416.0,
+    "__v" : 0
+},
+
+{
+    "_id" : "ObjectId:5c1e573f83ca0149a7c568c0",
+    "nombre" : "Myrna",
+    "apaterno" : "Salcedo",
+    "amaterno" : "Rivas",
+    "fechanac" : "1991-06-24",
+    "sexo" : "Femenino",
+    "email" : "myrnasalcedor@gmail.com",
+    "calle" : "Federica Bonilla",
+    "colonia" : "Torres del sur",
+    "cp" : 32575,
+    "ocupacion" : "Docente Activo",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c1e573f83ca0149a7c568c6",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Primer grado",
+            "Materia" : "Geografía de México y del Mundo"
+        }, 
+        {
+            "_id" : "ObjectId:5c1e573f83ca0149a7c568c5",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Tercer grado",
+            "Materia" : "HistoriaII de México"
+        }, 
+        {
+            "_id" : "ObjectId:5c1e573f83ca0149a7c568c4",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en educación",
+            "Materia" : "Teoría del Aprendizaje"
+        }, 
+        {
+            "_id" : "ObjectId:5c1e573f83ca0149a7c568c3",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en educación",
+            "Materia" : "Historia de la Educación"
+        }, 
+        {
+            "_id" : "ObjectId:5c1e573f83ca0149a7c568c2",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en educación",
+            "Materia" : "Planeación y Evaluación de la Capacitación"
+        }, 
+        {
+            "_id" : "ObjectId:5c1e573f83ca0149a7c568c1",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en educación",
+            "Materia" : "Planeación Educativa"
+        }
+    ],
+    "numero" : 1046,
+    "telefono" : 6271065797.0,
+    "__v" : 0
+}
+
+,
+{
+    "_id" : "ObjectId:5c1fdd2283ca0149a7c568c7",
+    "nombre" : "Luis Gerardo",
+    "apaterno" : "Perez",
+    "amaterno" : "Vera",
+    "fechanac" : "1984-08-13",
+    "sexo" : "Masculino",
+    "email" : "luizinho_10@hotmaim.com",
+    "calle" : "maria dolores alvarez",
+    "colonia" : "san angel",
+    "cp" : 32389,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c1fdd2283ca0149a7c568c8",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Cirujano Medico",
+            "Materia" : "Anatomía H??humana I?"
+        }
+    ],
+    "numero" : 1975,
+    "telefono" : 6562842238.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c20ecad83ca0149a7c568c9",
+    "nombre" : "Suset",
+    "apaterno" : "García",
+    "amaterno" : "Cardona",
+    "fechanac" : "1995-09-14",
+    "sexo" : "Femenino",
+    "email" : "suset.garcia.14@gmail.com",
+    "calle" : "Manuel gorospe",
+    "colonia" : "Horizontes del sur",
+    "cp" : 32575,
+    "ocupacion" : "Docente Activo",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c20ecad83ca0149a7c568ca",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Humanidades",
+            "Materia" : "Ética y Valores I"
+        }
+    ],
+    "numero" : 405,
+    "telefono" : 6561152709.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c22ef7383ca0149a7c568cb",
+    "nombre" : "Federico",
+    "apaterno" : "Solano",
+    "amaterno" : "Jurado",
+    "fechanac" : "1976-12-14",
+    "sexo" : "Masculino",
+    "email" : "fsolanoj@gmail.com",
+    "calle" : "Lago Tangalica",
+    "colonia" : "Los Lagos",
+    "cp" : 32360,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c22ef7383ca0149a7c568cc",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Ciencias sociales",
+            "Materia" : "Estructura socioeconómica de México"
+        }
+    ],
+    "numero" : 5207,
+    "telefono" : 6562235041.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c24627f83ca0149a7c568cd",
+    "nombre" : "Miguel Ángel",
+    "apaterno" : "Gámez",
+    "amaterno" : "Castillo",
+    "fechanac" : "1974-09-09",
+    "sexo" : "Masculino",
+    "email" : "teomaztlli@hotmail.com",
+    "calle" : "Paseo de los Tréboles Sur",
+    "colonia" : "Floresta de San José",
+    "cp" : 32534,
+    "ocupacion" : "Docente Activo",
+    "ciudad" : "",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c24627f83ca0149a7c568d3",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Primer grado",
+            "Materia" : "Español I"
+        }, 
+        {
+            "_id" : "ObjectId:5c24627f83ca0149a7c568d2",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Primer grado",
+            "Materia" : "Geografía de México y del Mundo"
+        }, 
+        {
+            "_id" : "ObjectId:5c24627f83ca0149a7c568d1",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo grado",
+            "Materia" : "Español II"
+        }, 
+        {
+            "_id" : "ObjectId:5c24627f83ca0149a7c568d0",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo grado",
+            "Materia" : "Historia I Universal"
+        }, 
+        {
+            "_id" : "ObjectId:5c24627f83ca0149a7c568cf",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Tercer grado",
+            "Materia" : "HistoriaII de México"
+        }, 
+        {
+            "_id" : "ObjectId:5c24627f83ca0149a7c568ce",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Tercer grado",
+            "Materia" : "Español III"
+        }
+    ],
+    "numero" : 8451,
+    "telefono" : 6565916164.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c2489b083ca0149a7c568d4",
+    "nombre" : "Andrea",
+    "apaterno" : "Hidalgo",
+    "amaterno" : "Ruiz",
+    "fechanac" : "1992-10-21",
+    "sexo" : "Femenino",
+    "email" : "andy_hidalgo30@hotmail.com",
+    "calle" : "Rancho el diamante ",
+    "colonia" : "Pradera dorada ",
+    "cp" : 32628,
+    "ocupacion" : "Docente Activo",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c2489b083ca0149a7c568df",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Matemáticas",
+            "Materia" : "Matemáticas I"
+        }, 
+        {
+            "_id" : "ObjectId:5c2489b083ca0149a7c568de",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Matemáticas",
+            "Materia" : "Matemáticas II"
+        }, 
+        {
+            "_id" : "ObjectId:5c2489b083ca0149a7c568dd",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Matemáticas",
+            "Materia" : "Matemáticas III"
+        }, 
+        {
+            "_id" : "ObjectId:5c2489b083ca0149a7c568dc",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Matemáticas",
+            "Materia" : "Matemáticas IV"
+        }, 
+        {
+            "_id" : "ObjectId:5c2489b083ca0149a7c568db",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Matemáticas",
+            "Materia" : "Álgebra"
+        }, 
+        {
+            "_id" : "ObjectId:5c2489b083ca0149a7c568da",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Matemáticas",
+            "Materia" : "Geometría y Trigonometría"
+        }, 
+        {
+            "_id" : "ObjectId:5c2489b083ca0149a7c568d9",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Matemáticas",
+            "Materia" : "Geometría analítica"
+        }, 
+        {
+            "_id" : "ObjectId:5c2489b083ca0149a7c568d8",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Matemáticas",
+            "Materia" : "Cálculo diferencial"
+        }, 
+        {
+            "_id" : "ObjectId:5c2489b083ca0149a7c568d7",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Matemáticas",
+            "Materia" : "Cálculo integral"
+        }, 
+        {
+            "_id" : "ObjectId:5c2489b083ca0149a7c568d6",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Matemáticas",
+            "Materia" : "Probabilidad y estadística"
+        }, 
+        {
+            "_id" : "ObjectId:5c2489b083ca0149a7c568d5",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Ciencias experimentales",
+            "Materia" : "Física II"
+        }
+    ],
+    "numero" : 3127,
+    "telefono" : 6566031864.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c250ea683ca0149a7c568ef",
+    "nombre" : "Daniel",
+    "apaterno" : "Jimenez",
+    "amaterno" : "Madrigal",
+    "fechanac" : "1995-04-12",
+    "sexo" : "Masculino",
+    "email" : "jjmdm18@gmail.com",
+    "calle" : "Rancho la tablada",
+    "colonia" : "Pradera dorada",
+    "cp" : 32618,
+    "ocupacion" : "Estudiante Universitario",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c250ea683ca0149a7c568f4",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Cirujano Medico",
+            "Materia" : "Anatomía H??humana I?"
+        }, 
+        {
+            "_id" : "ObjectId:5c250ea683ca0149a7c568f3",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Cirujano Medico",
+            "Materia" : "Anatomía Humana II"
+        }, 
+        {
+            "_id" : "ObjectId:5c250ea683ca0149a7c568f2",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Cirujano Medico",
+            "Materia" : "Fisiología Humana I"
+        }, 
+        {
+            "_id" : "ObjectId:5c250ea683ca0149a7c568f1",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Cirujano Medico",
+            "Materia" : "Fisiología Humana II"
+        }, 
+        {
+            "_id" : "ObjectId:5c250ea683ca0149a7c568f0",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Cirujano Medico",
+            "Materia" : "Metodología de la Investigación en Salud"
+        }
+    ],
+    "numero" : 3318,
+    "telefono" : 6561648198.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c2531eb83ca0149a7c568f5",
+    "nombre" : "Itzel",
+    "apaterno" : "Samaniego",
+    "amaterno" : "Rodriguez",
+    "fechanac" : "1995-10-07",
+    "sexo" : "Femenino",
+    "email" : "Itzelrdgzsamaniego@gmail.com",
+    "calle" : "Chichimecas ",
+    "colonia" : "",
+    "cp" : 32280,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c2531eb83ca0149a7c568fe",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Tercer grado",
+            "Materia" : "Inglés III"
+        }, 
+        {
+            "_id" : "ObjectId:5c2531eb83ca0149a7c568fd",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles I"
+        }, 
+        {
+            "_id" : "ObjectId:5c2531eb83ca0149a7c568fc",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles II"
+        }, 
+        {
+            "_id" : "ObjectId:5c2531eb83ca0149a7c568fb",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles III"
+        }, 
+        {
+            "_id" : "ObjectId:5c2531eb83ca0149a7c568fa",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles VI"
+        }, 
+        {
+            "_id" : "ObjectId:5c2531eb83ca0149a7c568f9",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles V"
+        }, 
+        {
+            "_id" : "ObjectId:5c2531eb83ca0149a7c568f8",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles VI"
+        }, 
+        {
+            "_id" : "ObjectId:5c2531eb83ca0149a7c568f7",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Primer grado",
+            "Materia" : "Inglés I"
+        }, 
+        {
+            "_id" : "ObjectId:5c2531eb83ca0149a7c568f6",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo grado",
+            "Materia" : "Inglés II"
+        }
+    ],
+    "numero" : 6020,
+    "telefono" : 8714717114.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c25405183ca0149a7c56906",
+    "nombre" : "Maria Teresa",
+    "apaterno" : "Chavez",
+    "amaterno" : "Nevarez",
+    "fechanac" : "1989-02-23",
+    "sexo" : "Femenino",
+    "email" : "teresa_shavez@yahoo.com",
+    "calle" : "Baltazar Adame",
+    "colonia" : "Los Alcaldes",
+    "cp" : 32400,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua ",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c25405183ca0149a7c56908",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Diseño Gráfico",
+            "Materia" : "Introducción a la Mercadotecnia"
+        }, 
+        {
+            "_id" : "ObjectId:5c25405183ca0149a7c56907",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Diseño Gráfico",
+            "Materia" : "Idioma I"
+        }
+    ],
+    "numero" : 7514,
+    "telefono" : 6564419700.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c254f1b83ca0149a7c56909",
+    "nombre" : "Miguel irving",
+    "apaterno" : "Ramos",
+    "amaterno" : "Hernandez",
+    "fechanac" : "1991-04-30",
+    "sexo" : "Masculino",
+    "email" : "Migueliramos12@gmail.com",
+    "calle" : "Manuel anguiano",
+    "colonia" : "Inf.parques industriales",
+    "cp" : 32625,
+    "ocupacion" : "Estudiante Universitario",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c254f1b83ca0149a7c5690a",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Inglès"
+        }
+    ],
+    "numero" : 3009,
+    "telefono" : 6565334573.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c27a67f83ca0149a7c5690b",
+    "nombre" : "Melissa ",
+    "apaterno" : "Melendez",
+    "amaterno" : "Ibarra",
+    "fechanac" : "1992-07-24",
+    "sexo" : "Femenino",
+    "email" : "meli.mdz@gmail.com",
+    "calle" : "fte de la bastilla",
+    "colonia" : "jardines del lago ",
+    "cp" : 32616,
+    "ocupacion" : "Docente Activo",
+    "ciudad" : "Chihuhua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c27a67f83ca0149a7c56911",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Español"
+        }, 
+        {
+            "_id" : "ObjectId:5c27a67f83ca0149a7c56910",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Geografia"
+        }, 
+        {
+            "_id" : "ObjectId:5c27a67f83ca0149a7c5690f",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Ciencias Naturales"
+        }, 
+        {
+            "_id" : "ObjectId:5c27a67f83ca0149a7c5690e",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Literatura"
+        }, 
+        {
+            "_id" : "ObjectId:5c27a67f83ca0149a7c5690d",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Matemáticas"
+        }, 
+        {
+            "_id" : "ObjectId:5c27a67f83ca0149a7c5690c",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Inglès"
+        }
+    ],
+    "numero" : 7503,
+    "telefono" : 6561852975.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c2bad5a83ca0149a7c56930",
+    "nombre" : "Jorge",
+    "apaterno" : "Lopez",
+    "amaterno" : "Bernal",
+    "fechanac" : "1976-01-01",
+    "sexo" : "Masculino",
+    "email" : "mail@tichweb.com",
+    "calle" : "Calle",
+    "colonia" : "Coloniaaa",
+    "cp" : 173838,
+    "ocupacion" : "Estudiante Universitario",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c2bad5a83ca0149a7c56934",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Matemáticas"
+        }, 
+        {
+            "_id" : "ObjectId:5c2bad5a83ca0149a7c56933",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Ciencias Naturales"
+        }, 
+        {
+            "_id" : "ObjectId:5c2bad5a83ca0149a7c56932",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Exploraciòn de la Naturaleza y la Sociedad"
+        }, 
+        {
+            "_id" : "ObjectId:5c2bad5a83ca0149a7c56931",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Geografia"
+        }
+    ],
+    "numero" : 1938,
+    "telefono" : 7384728,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c2e323b83ca0149a7c56935",
+    "nombre" : "NANCY",
+    "apaterno" : "HINOJOSA",
+    "amaterno" : "ATILANO",
+    "fechanac" : "1984-03-27",
+    "sexo" : "Femenino",
+    "email" : "c.d.nancy_hinojosa@hotmail.com",
+    "calle" : "Saponaria",
+    "colonia" : "Inf. Angel Trias",
+    "cp" : 32668,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c2e323b83ca0149a7c56936",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Cirujano Dentista",
+            "Materia" : "Materiales Dentales"
+        }
+    ],
+    "numero" : 5810,
+    "telefono" : 6561294931.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c2e473283ca0149a7c56937",
+    "nombre" : "Rosa ivette",
+    "apaterno" : "Garcia",
+    "amaterno" : "Solano",
+    "fechanac" : "1992-06-03",
+    "sexo" : "Femenino",
+    "email" : "ivette.ij21@homtail.com",
+    "calle" : "Anemona",
+    "colonia" : "Infonavit Ángel Trias",
+    "cp" : 32668,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c2e473283ca0149a7c56938",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en turismo",
+            "Materia" : "Servicios de Viajes"
+        }
+    ],
+    "numero" : 9103,
+    "telefono" : 6563183357.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c2e59eb83ca0149a7c56939",
+    "nombre" : "Carlos",
+    "apaterno" : "Aguilar",
+    "amaterno" : "García",
+    "fechanac" : "1996-06-23",
+    "sexo" : "Masculino",
+    "email" : "103.aguilar.carlos@gmail.com",
+    "calle" : "Sahuayo",
+    "colonia" : "Eréndira",
+    "cp" : 32662,
+    "ocupacion" : "Estudiante Universitario",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c2e59eb83ca0149a7c5693e",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Primer grado",
+            "Materia" : "Inglés I"
+        }, 
+        {
+            "_id" : "ObjectId:5c2e59eb83ca0149a7c5693d",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo grado",
+            "Materia" : "Historia I Universal"
+        }, 
+        {
+            "_id" : "ObjectId:5c2e59eb83ca0149a7c5693c",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo grado",
+            "Materia" : "Inglés II"
+        }, 
+        {
+            "_id" : "ObjectId:5c2e59eb83ca0149a7c5693b",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Tercer grado",
+            "Materia" : "HistoriaII de México"
+        }, 
+        {
+            "_id" : "ObjectId:5c2e59eb83ca0149a7c5693a",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Tercer grado",
+            "Materia" : "Inglés III"
+        }
+    ],
+    "numero" : 7818,
+    "telefono" : 6561334052.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c33e49883ca0149a7c56943",
+    "nombre" : "rodolfo",
+    "apaterno" : "de la rosa ",
+    "amaterno" : "cangas",
+    "fechanac" : "1988-12-19",
+    "sexo" : "Masculino",
+    "email" : "rdemotol@gmail.com",
+    "calle" : "manzanos ",
+    "colonia" : "jardines del bosque",
+    "cp" : 32539,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c33e49883ca0149a7c56946",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Inglès"
+        }, 
+        {
+            "_id" : "ObjectId:5c33e49883ca0149a7c56945",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Matemáticas"
+        }, 
+        {
+            "_id" : "ObjectId:5c33e49883ca0149a7c56944",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Geografia"
+        }
+    ],
+    "numero" : 8622,
+    "telefono" : 6564661015.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c366e6e83ca0149a7c56947",
+    "nombre" : "Elsa ",
+    "apaterno" : "Garcia",
+    "amaterno" : "Porragas",
+    "fechanac" : "1971-01-30",
+    "sexo" : "Femenino",
+    "email" : "elgaporragas@hotmail.com",
+    "calle" : "almendros",
+    "colonia" : "floresta de san jose",
+    "cp" : 32534,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c366e6e83ca0149a7c56948",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Matemáticas"
+        }
+    ],
+    "numero" : 3010,
+    "telefono" : 6563082946.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c38209c83ca0149a7c56949",
+    "nombre" : "Sandra ",
+    "apaterno" : "Rodriguez ",
+    "amaterno" : "Sanchez ",
+    "fechanac" : "1994-09-10",
+    "sexo" : "Femenino",
+    "email" : "sandrarods12@hotmail.com",
+    "calle" : "Calle marfa",
+    "colonia" : "Praderas del sur ",
+    "cp" : 32575,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua ",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c38209c83ca0149a7c5694a",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Inglès"
+        }
+    ],
+    "numero" : 1824,
+    "telefono" : 6562853902.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c41117c83ca0149a7c56957",
+    "nombre" : "Sandra Esther",
+    "apaterno" : "Zetina",
+    "amaterno" : "Betancourt",
+    "fechanac" : "1971-12-06",
+    "sexo" : "Femenino",
+    "email" : "sandhy_1@hotmail.com",
+    "calle" : "Circuito Amapa",
+    "colonia" : "Country Senecu",
+    "cp" : 32472,
+    "ocupacion" : "Estudiante Universitario",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c41117c83ca0149a7c56959",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Ciencias sociales",
+            "Materia" : "Valores"
+        }, 
+        {
+            "_id" : "ObjectId:5c41117c83ca0149a7c56958",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Ciencias sociales",
+            "Materia" : "Sociedad"
+        }
+    ],
+    "numero" : 10309,
+    "telefono" : 6566264411.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c4f7836a932bf03a294ffd6",
+    "nombre" : "stephany",
+    "apaterno" : "Hernández",
+    "amaterno" : "Uco",
+    "fechanac" : "1991-03-04",
+    "sexo" : "Femenino",
+    "email" : "stephany.hernandez.uco@gmail.com",
+    "calle" : "Frateo",
+    "colonia" : "Harmoni",
+    "cp" : 32668,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c4f7836a932bf03a294ffda",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Comunicación",
+            "Materia" : "Tecnología de la Información y la comunicación"
+        }, 
+        {
+            "_id" : "ObjectId:5c4f7836a932bf03a294ffd9",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Comunicación",
+            "Materia" : "Lectura, expresión oral y escrita I"
+        }, 
+        {
+            "_id" : "ObjectId:5c4f7836a932bf03a294ffd8",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Ciencias sociales",
+            "Materia" : "Sociedad"
+        }, 
+        {
+            "_id" : "ObjectId:5c4f7836a932bf03a294ffd7",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Humanidades",
+            "Materia" : "Literatura I"
+        }
+    ],
+    "numero" : 8508,
+    "telefono" : 6565625538.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c50a24ca932bf03a294ffdb",
+    "nombre" : "Emmanuel",
+    "apaterno" : "Diaz",
+    "amaterno" : "Gonzalez",
+    "fechanac" : "1985-02-24",
+    "sexo" : "Masculino",
+    "email" : "lic.ediazgonzalez@mail.com",
+    "calle" : "Reforma cruza con calle Guatemala",
+    "colonia" : "El Barreal",
+    "cp" : 32040,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c50a24ca932bf03a294ffde",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Derecho",
+            "Materia" : "Derecho Procesal Penal?"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a24ca932bf03a294ffdd",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Derecho",
+            "Materia" : "Derecho Penal I"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a24ca932bf03a294ffdc",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Derecho",
+            "Materia" : "Derecho Penal II"
+        }
+    ],
+    "numero" : 1810,
+    "telefono" : 6567977408.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c50a5f0a932bf03a294ffdf",
+    "nombre" : "Karen",
+    "apaterno" : "Olivares",
+    "amaterno" : "Leyva",
+    "fechanac" : "1995-06-13",
+    "sexo" : "Femenino",
+    "email" : "karen.olivares.leyva@gmail.com",
+    "calle" : "Joaquin de Cazasus",
+    "colonia" : "Infonavit Juarez Nuevo",
+    "cp" : 32583,
+    "ocupacion" : "Estudiante Universitario",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294fff6",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Geografia"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294fff5",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Literatura"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294fff4",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Matemáticas"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294fff3",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Inglès"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294fff2",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Español"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294fff1",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Primer grado",
+            "Materia" : "Español I"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294fff0",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Primer grado",
+            "Materia" : "Matemáticas I"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffef",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Primer grado",
+            "Materia" : "Inglés I"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffee",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Primer grado",
+            "Materia" : "Computación"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffed",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo grado",
+            "Materia" : "Matemáticas II"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffec",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo grado",
+            "Materia" : "Inglés II"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffeb",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo grado",
+            "Materia" : "Computación"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffea",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Primer grado",
+            "Materia" : "Ciencias I (Biología)"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffe9",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Tercer grado",
+            "Materia" : "Español III"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffe8",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Tercer grado",
+            "Materia" : "Matemáticas III"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffe7",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Tercer grado",
+            "Materia" : "Inglés III"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffe6",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Tercer grado",
+            "Materia" : "Computación"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffe5",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles I"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffe4",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles II"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffe3",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles III"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffe2",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles VI"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffe1",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Comunicación",
+            "Materia" : "Informática I"
+        }, 
+        {
+            "_id" : "ObjectId:5c50a5f0a932bf03a294ffe0",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Comunicación",
+            "Materia" : "Informática II"
+        }
+    ],
+    "numero" : 9502,
+    "telefono" : 6561561954.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c50b932a932bf03a294fff7",
+    "nombre" : "Edgar Iván ",
+    "apaterno" : "Gómez",
+    "amaterno" : "Ontiveros",
+    "fechanac" : "1994-07-08",
+    "sexo" : "Masculino",
+    "email" : "edgar.gont@gmail.com",
+    "calle" : "Daniel Longoria",
+    "colonia" : "Universidad ",
+    "cp" : 32584,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c50b932a932bf03a294fffa",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Ciencias sociales",
+            "Materia" : "Metodología de la Investigación"
+        }, 
+        {
+            "_id" : "ObjectId:5c50b932a932bf03a294fff9",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Ciencias sociales",
+            "Materia" : "Introducción a las Ciencias Sociales"
+        }, 
+        {
+            "_id" : "ObjectId:5c50b932a932bf03a294fff8",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Ciencias sociales",
+            "Materia" : "Valores"
+        }
+    ],
+    "numero" : 7207,
+    "telefono" : 6562230042.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c51e977a932bf03a294fffb",
+    "nombre" : "ROSARIO ",
+    "apaterno" : "SEBASTIAN ",
+    "amaterno" : "NAVA ",
+    "fechanac" : "1984-11-04",
+    "sexo" : "Femenino",
+    "email" : "rouzaltian@gmail.com",
+    "calle" : "REGION DE FILALDELFIA",
+    "colonia" : "JARDINES DE SAN PATRICIO",
+    "cp" : 32546,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "CHIHUAHUA ",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c51e977a932bf03a294fffc",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Humanidades",
+            "Materia" : "Ética y Valores I"
+        }
+    ],
+    "numero" : 787,
+    "telefono" : 6565916400.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c537c08a932bf03a294fffd",
+    "nombre" : "manuel",
+    "apaterno" : "gonzalez",
+    "amaterno" : "san",
+    "fechanac" : "1988-07-25",
+    "sexo" : "Masculino",
+    "email" : "mennyg34@gmail.com",
+    "calle" : "pa",
+    "colonia" : "el v",
+    "cp" : 32656,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c537c08a932bf03a294fffe",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Comunicación",
+            "Materia" : "Lectura, expresión oral y escrita I"
+        }
+    ],
+    "numero" : 43,
+    "telefono" : 6567497018.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c55f19ba932bf03a2950009",
+    "nombre" : "Oscar",
+    "apaterno" : "Gonzalez",
+    "amaterno" : "Corpus",
+    "fechanac" : "1971-04-06",
+    "sexo" : "Masculino",
+    "email" : "org.osgo@gmail.com",
+    "calle" : "Del vergel",
+    "colonia" : "El crucro",
+    "cp" : 32500,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c55f19ba932bf03a295000a",
+            "Nivel" : "Universidad",
+            "Categoria" : "Administración de empresas",
+            "Materia" : "Liderazgo y Dirección de Equipo"
+        }
+    ],
+    "numero" : 6860,
+    "telefono" : 19158925586.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c568c6aa932bf03a295000b",
+    "nombre" : "Magdalena ",
+    "apaterno" : "Andrade",
+    "amaterno" : "Lopez",
+    "fechanac" : "1966-05-29",
+    "sexo" : "Femenino",
+    "email" : "akasaseguros@yahoo.com.mx",
+    "calle" : "Hacienda de las trojes",
+    "colonia" : "Colonial Del Valle ",
+    "cp" : 32553,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua ",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c568c6aa932bf03a295000c",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Humanidades",
+            "Materia" : "Ética y Valores I"
+        }
+    ],
+    "numero" : 1114,
+    "telefono" : 6566092660.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c57b3b4a932bf03a295000d",
+    "nombre" : "Mario",
+    "apaterno" : "Domínguez",
+    "amaterno" : "Rodríguez",
+    "fechanac" : "1994-11-24",
+    "sexo" : "Masculino",
+    "email" : "dominguezmario94@gmail.com",
+    "calle" : "Dunas de Chihuahua",
+    "colonia" : "Paraje de Oriente",
+    "cp" : 32575,
+    "ocupacion" : "Estudiante Universitario",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c57b3b4a932bf03a295000e",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Matemáticas"
+        }
+    ],
+    "numero" : 1433,
+    "telefono" : 6561582867.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c57bf6ba932bf03a295000f",
+    "nombre" : "Jaqueline",
+    "apaterno" : "Dominguez ",
+    "amaterno" : "Mina",
+    "fechanac" : "2000-11-16",
+    "sexo" : "Femenino",
+    "email" : "jaqui2000mina@gmail.com",
+    "calle" : "Dunas de bilbao",
+    "colonia" : "Parajes de oriente",
+    "cp" : 32575,
+    "ocupacion" : "Estudiante Universitario",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c57bf6ba932bf03a2950011",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Ciencias Naturales"
+        }, 
+        {
+            "_id" : "ObjectId:5c57bf6ba932bf03a2950010",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Español"
+        }
+    ],
+    "numero" : 1441,
+    "telefono" : 9211725118.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c57c0dca932bf03a2950012",
+    "nombre" : "José Rubén",
+    "apaterno" : "Ramírez",
+    "amaterno" : "Muñoz",
+    "fechanac" : "1983-10-23",
+    "sexo" : "Masculino",
+    "email" : "jrramirezliebres@hotmail.com",
+    "calle" : "Simón Bolívar",
+    "colonia" : "Santa Rosa",
+    "cp" : 32250,
+    "ocupacion" : "Docente Activo",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a2950027",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles VI"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a2950026",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles I"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a2950025",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles II"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a2950024",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles III"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a2950023",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles V"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a2950022",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Enseñanza del Ingles",
+            "Materia" : "Habilidades comunicativas en inglés I"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a2950021",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Enseñanza del Ingles",
+            "Materia" : "Métodos y técnicas de la enseñanza del inglés"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a2950020",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Enseñanza del Ingles",
+            "Materia" : "Fonética y fonología para la enseñanza del idioma inglés II"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a295001f",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Enseñanza del Ingles",
+            "Materia" : "Diseño y evaluación de materiales para la enseñanza del idioma inglés"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a295001e",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Enseñanza del Ingles",
+            "Materia" : "Análisis gramatical del idioma inglés"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a295001d",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Enseñanza del Ingles",
+            "Materia" : "Gramática comparativa del idioma inglés y español"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a295001c",
+            "Nivel" : "Universidad",
+            "Categoria" : "Administración de empresas",
+            "Materia" : "Fundamentos Básicos de Admón."
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a295001b",
+            "Nivel" : "Universidad",
+            "Categoria" : "Administración de empresas",
+            "Materia" : "Planeación y Control"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a295001a",
+            "Nivel" : "Universidad",
+            "Categoria" : "Administración de empresas",
+            "Materia" : "Inglés Comunicativo (Princ.)"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a2950019",
+            "Nivel" : "Universidad",
+            "Categoria" : "Administración de empresas",
+            "Materia" : "Teoría de la Administración"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a2950018",
+            "Nivel" : "Universidad",
+            "Categoria" : "Administración de empresas",
+            "Materia" : "Taller de Inglés para negocios"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a2950017",
+            "Nivel" : "Universidad",
+            "Categoria" : "Administración de empresas",
+            "Materia" : "Inglés comunicativo (Intermedio)"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a2950016",
+            "Nivel" : "Universidad",
+            "Categoria" : "Administración de empresas",
+            "Materia" : "Inglés comunicativo (Avanzado)"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a2950015",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Primer grado",
+            "Materia" : "Inglés I"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a2950014",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo grado",
+            "Materia" : "Inglés II"
+        }, 
+        {
+            "_id" : "ObjectId:5c57c0dca932bf03a2950013",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Tercer grado",
+            "Materia" : "Inglés III"
+        }
+    ],
+    "numero" : 4288,
+    "telefono" : 6561349768.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c587fcba932bf03a2950028",
+    "nombre" : "Luz Elena",
+    "apaterno" : "Fonseca",
+    "amaterno" : "Rodriguez",
+    "fechanac" : "1980-10-06",
+    "sexo" : "Femenino",
+    "email" : "lefr061080@hotmail.com",
+    "calle" : "Camino Valencia ",
+    "colonia" : "Jardines de Aragon",
+    "cp" : 32680,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c587fcba932bf03a295002a",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Contaduría",
+            "Materia" : "Contabilidad Financiera I"
+        }, 
+        {
+            "_id" : "ObjectId:5c587fcba932bf03a2950029",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Contaduría",
+            "Materia" : "Contabilidad Financiera II"
+        }
+    ],
+    "numero" : 1305,
+    "telefono" : 6562164661.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c58b74ea932bf03a295002b",
+    "nombre" : "Jose Antonio",
+    "apaterno" : "Guijarro ",
+    "amaterno" : "Garcia",
+    "fechanac" : "1968-03-03",
+    "sexo" : "Masculino",
+    "email" : "jaguijarro@miners.utep.edu",
+    "calle" : "27 Lazy Morning ",
+    "colonia" : "The woodlands Texas ",
+    "cp" : 77381,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Texas",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c58b74ea932bf03a295002c",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Matemáticas",
+            "Materia" : "Matemáticas I"
+        }
+    ],
+    "numero" : 27,
+    "telefono" : 9156138116.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c58b7ffa932bf03a2950031",
+    "nombre" : "Betsabe",
+    "apaterno" : "Castro",
+    "amaterno" : "Gonzalez",
+    "fechanac" : "1994-11-05",
+    "sexo" : "Femenino",
+    "email" : "bcastro@outlook.com",
+    "calle" : "Suarez 23",
+    "colonia" : "",
+    "cp" : null,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c58b7ffa932bf03a2950032",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Matemáticas",
+            "Materia" : "Álgebra"
+        }
+    ],
+    "numero" : 234,
+    "telefono" : null,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c58ddccbcc06f22db957d4a",
+    "nombre" : "Jorge",
+    "apaterno" : "Lopez",
+    "amaterno" : "Bernal",
+    "fechanac" : "1998-11-11",
+    "sexo" : "Masculino",
+    "email" : "tichtest1@tichweb.com",
+    "calle" : "calle",
+    "colonia" : "lskdfj",
+    "cp" : 3120,
+    "ocupacion" : "Estudiante Universitario",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c58ddccbcc06f22db957d4e",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo grado",
+            "Materia" : "Ciencias II (Física)"
+        }, 
+        {
+            "_id" : "ObjectId:5c58ddccbcc06f22db957d4d",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo grado",
+            "Materia" : "Español II"
+        }, 
+        {
+            "_id" : "ObjectId:5c58ddccbcc06f22db957d4c",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo grado",
+            "Materia" : "Inglés II"
+        }, 
+        {
+            "_id" : "ObjectId:5c58ddccbcc06f22db957d4b",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo grado",
+            "Materia" : "Computación"
+        }
+    ],
+    "numero" : 23,
+    "telefono" : 245345,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c58df2e622669232ecc168f",
+    "nombre" : "Jorge",
+    "apaterno" : "Lopez",
+    "amaterno" : "Bernal",
+    "fechanac" : "25/11/1994",
+    "sexo" : "Masculino",
+    "email" : "tichmail@tichweb.com",
+    "calle" : "calle",
+    "colonia" : "coolonia",
+    "cp" : 32575,
+    "ocupacion" : "Empleado",
+    "ciudad" : "Juarez",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c58df2e622669232ecc1690",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo Grado",
+            "Materia" : "Ciencias II"
+        }
+    ],
+    "numero" : 106,
+    "telefono" : 25234234,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c58e78c622669232ecc1691",
+    "nombre" : "Jorge",
+    "apaterno" : "Lopez",
+    "amaterno" : "Bernal",
+    "fechanac" : "25/11/1994",
+    "sexo" : "Masculino",
+    "email" : "tichmail2@tichweb.com",
+    "calle" : "calle",
+    "colonia" : "coolonia",
+    "cp" : 32575,
+    "ocupacion" : "Empleado",
+    "ciudad" : "Juarez",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c58e78c622669232ecc1692",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo Grado",
+            "Materia" : "Ciencias II"
+        }
+    ],
+    "numero" : 106,
+    "telefono" : 25234234,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c58e7e4622669232ecc1695",
+    "nombre" : "Jorge",
+    "apaterno" : "Lopez",
+    "amaterno" : "Bernal",
+    "fechanac" : "25/11/1994",
+    "sexo" : "Masculino",
+    "email" : "tichmail3@tichweb.com",
+    "calle" : "calle",
+    "colonia" : "coolonia",
+    "cp" : 32575,
+    "ocupacion" : "Empleado",
+    "ciudad" : "Juarez",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c58e7e4622669232ecc1696",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo Grado",
+            "Materia" : "Ciencias II"
+        }
+    ],
+    "numero" : 106,
+    "telefono" : 25234234,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c58e821622669232ecc1699",
+    "nombre" : "Jorge",
+    "apaterno" : "Lopez",
+    "amaterno" : "Bernal",
+    "fechanac" : "25/11/1994",
+    "sexo" : "Masculino",
+    "email" : "tichmail5@tichweb.com",
+    "calle" : "calle",
+    "colonia" : "coolonia",
+    "cp" : 32575,
+    "ocupacion" : "Empleado",
+    "ciudad" : "Juarez",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c58e821622669232ecc169a",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo Grado",
+            "Materia" : "Ciencias II"
+        }
+    ],
+    "numero" : 106,
+    "telefono" : 25234234,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c58e964622669232ecc16a7",
+    "nombre" : "Jorge",
+    "apaterno" : "Lopez",
+    "amaterno" : "Bernal",
+    "fechanac" : "25/11/1994",
+    "sexo" : "Masculino",
+    "email" : "tichmail6@tichweb.com",
+    "calle" : "calle",
+    "colonia" : "coolonia",
+    "cp" : 32575,
+    "ocupacion" : "Empleado",
+    "ciudad" : "Juarez",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c58e964622669232ecc16a8",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo Grado",
+            "Materia" : "Ciencias II"
+        }
+    ],
+    "numero" : 106,
+    "telefono" : 25234234,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c58e9b2622669232ecc16a9",
+    "nombre" : "Jorge",
+    "apaterno" : "Lopez",
+    "amaterno" : "Bernal",
+    "fechanac" : "25/11/1994",
+    "sexo" : "Masculino",
+    "email" : "tichmail7@tichweb.com",
+    "calle" : "calle",
+    "colonia" : "coolonia",
+    "cp" : 32575,
+    "ocupacion" : "Empleado",
+    "ciudad" : "Juarez",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c58e9b2622669232ecc16aa",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo Grado",
+            "Materia" : "Ciencias II"
+        }
+    ],
+    "numero" : 106,
+    "telefono" : 25234234,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c58ebb7622669232ecc16b1",
+    "nombre" : "Jorge",
+    "apaterno" : "Lopez",
+    "amaterno" : "Bernal",
+    "fechanac" : "25/11/1994",
+    "sexo" : "Masculino",
+    "email" : "test@tichweb.com",
+    "calle" : "calle",
+    "colonia" : "coolonia",
+    "cp" : 32575,
+    "ocupacion" : "Empleado",
+    "ciudad" : "Juarez",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c58ebb7622669232ecc16b2",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo Grado",
+            "Materia" : "Ciencias II"
+        }
+    ],
+    "numero" : 106,
+    "telefono" : 25234234,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c595646622669232ecc16d3",
+    "nombre" : "HECTOR",
+    "apaterno" : "OLIVAS",
+    "amaterno" : "CASTAÑEDA",
+    "fechanac" : "1994-06-15",
+    "sexo" : "Masculino",
+    "email" : "olivaschec@gmail.com",
+    "calle" : "D",
+    "colonia" : "A",
+    "cp" : 32668,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "CHIHUAHUA",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c595646622669232ecc16db",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Ciencias sociales",
+            "Materia" : "Metodología de la Investigación"
+        }, 
+        {
+            "_id" : "ObjectId:5c595646622669232ecc16da",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Ciencias sociales",
+            "Materia" : "Sociedad"
+        }, 
+        {
+            "_id" : "ObjectId:5c595646622669232ecc16d9",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Ciencias sociales",
+            "Materia" : "Estructura socioeconómica de México"
+        }, 
+        {
+            "_id" : "ObjectId:5c595646622669232ecc16d8",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Ciencias sociales",
+            "Materia" : "Introducción a las Ciencias Sociales"
+        }, 
+        {
+            "_id" : "ObjectId:5c595646622669232ecc16d7",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Ciencias sociales",
+            "Materia" : "Historia Universal Contemporánea"
+        }, 
+        {
+            "_id" : "ObjectId:5c595646622669232ecc16d6",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Ciencias sociales",
+            "Materia" : "Historia de México I"
+        }, 
+        {
+            "_id" : "ObjectId:5c595646622669232ecc16d5",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Ciencias sociales",
+            "Materia" : "Historia de México II"
+        }, 
+        {
+            "_id" : "ObjectId:5c595646622669232ecc16d4",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Ciencias sociales",
+            "Materia" : "Ciencia"
+        }
+    ],
+    "numero" : 1234,
+    "telefono" : 6565505372.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c59b474622669232ecc16dc",
+    "nombre" : "Alma Zoe ",
+    "apaterno" : "diaz",
+    "amaterno" : "garcia",
+    "fechanac" : "1991-02-01",
+    "sexo" : "Femenino",
+    "email" : "zdiaz@industrialtech.com.mx",
+    "calle" : "Montebello 2243-49",
+    "colonia" : "misiones del sur ",
+    "cp" : 32530,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c59b474622669232ecc16df",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Matemáticas"
+        }, 
+        {
+            "_id" : "ObjectId:5c59b474622669232ecc16de",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Primer grado",
+            "Materia" : "Computación"
+        }, 
+        {
+            "_id" : "ObjectId:5c59b474622669232ecc16dd",
+            "Nivel" : "Primaria",
+            "Categoria" : "Básico",
+            "Materia" : "Español"
+        }
+    ],
+    "numero" : 6562033079.0,
+    "telefono" : null,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c5a22ee622669232ecc16e0",
+    "nombre" : "Victor Hugo",
+    "apaterno" : "Villalobos",
+    "amaterno" : "Ramirez",
+    "fechanac" : "1990-07-02",
+    "sexo" : "Masculino",
+    "email" : "victor.villalobos.ram@gmail.com",
+    "calle" : "Riveras del trigal",
+    "colonia" : "Riveras del bravo",
+    "cp" : 32599,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c5a22ee622669232ecc16e9",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Ingeniería en sistemas Computacionales",
+            "Materia" : "Programación Orientada a Objetos"
+        }, 
+        {
+            "_id" : "ObjectId:5c5a22ee622669232ecc16e8",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Ingeniería en sistemas Computacionales",
+            "Materia" : "Programación Estructurada"
+        }, 
+        {
+            "_id" : "ObjectId:5c5a22ee622669232ecc16e7",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Ingeniería en sistemas Computacionales",
+            "Materia" : "Sistemas Web I"
+        }, 
+        {
+            "_id" : "ObjectId:5c5a22ee622669232ecc16e6",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Ingeniería en sistemas Computacionales",
+            "Materia" : "Análisis y Diseño de Algoritmos"
+        }, 
+        {
+            "_id" : "ObjectId:5c5a22ee622669232ecc16e5",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Ingeniería en sistemas Computacionales",
+            "Materia" : "Introducción a las Tecnologías de Información"
+        }, 
+        {
+            "_id" : "ObjectId:5c5a22ee622669232ecc16e4",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Ingeniería en sistemas Computacionales",
+            "Materia" : "Fundamentos de Programción"
+        }, 
+        {
+            "_id" : "ObjectId:5c5a22ee622669232ecc16e3",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Ingeniería en sistemas Computacionales",
+            "Materia" : "Estructura de Datos"
+        }, 
+        {
+            "_id" : "ObjectId:5c5a22ee622669232ecc16e2",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Ingeniería en sistemas Computacionales",
+            "Materia" : "Bases de Datos I"
+        }, 
+        {
+            "_id" : "ObjectId:5c5a22ee622669232ecc16e1",
+            "Nivel" : "Universidad",
+            "Categoria" : "Licenciatura en Ingeniería en sistemas Computacionales",
+            "Materia" : "Ingeniería de Software"
+        }
+    ],
+    "numero" : 613,
+    "telefono" : 6562647716.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c5a5402622669232ecc16f6",
+    "nombre" : "Jorge",
+    "apaterno" : "Lopez",
+    "amaterno" : "Bernal",
+    "fechanac" : "25/11/1994",
+    "sexo" : "Masculino",
+    "email" : "tessososowt@tichweb.com",
+    "calle" : "calle",
+    "colonia" : "coolonia",
+    "cp" : 32575,
+    "ocupacion" : "Empleado",
+    "ciudad" : "Juarez",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c5a5402622669232ecc16f7",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo Grado",
+            "Materia" : "Ciencias II"
+        }
+    ],
+    "numero" : 106,
+    "telefono" : 25234234,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c5a5695622669232ecc1706",
+    "nombre" : "Jorge",
+    "apaterno" : "Lopez",
+    "amaterno" : "Bernal",
+    "fechanac" : "25/11/1994",
+    "sexo" : "Masculino",
+    "email" : "teohhkkgjñst@tichweb.com",
+    "calle" : "calle",
+    "colonia" : "coolonia",
+    "cp" : 32575,
+    "ocupacion" : "Empleado",
+    "ciudad" : "Juarez",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c5a5695622669232ecc1707",
+            "Nivel" : "Secundaria",
+            "Categoria" : "Segundo Grado",
+            "Materia" : "Ciencias II"
+        }
+    ],
+    "numero" : 106,
+    "telefono" : 25234234,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c5bcf29622669232ecc1708",
+    "nombre" : "Edgar Alan",
+    "apaterno" : "Cejas ",
+    "amaterno" : "Luna",
+    "fechanac" : "1992-12-23",
+    "sexo" : "Masculino",
+    "email" : "alanc_23@hotmail.com",
+    "calle" : "Cardo",
+    "colonia" : "INFONAVIT angel trias",
+    "cp" : 32668,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Chihuahua ",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c5bcf29622669232ecc170c",
+            "Nivel" : "Universidad",
+            "Categoria" : "Administración de empresas",
+            "Materia" : "Creación y Desarrollo de Empresas"
+        }, 
+        {
+            "_id" : "ObjectId:5c5bcf29622669232ecc170b",
+            "Nivel" : "Universidad",
+            "Categoria" : "Administración de empresas",
+            "Materia" : "Fundamentos Básicos de Admón."
+        }, 
+        {
+            "_id" : "ObjectId:5c5bcf29622669232ecc170a",
+            "Nivel" : "Universidad",
+            "Categoria" : "Administración de empresas",
+            "Materia" : "Mercadotecnia"
+        }, 
+        {
+            "_id" : "ObjectId:5c5bcf29622669232ecc1709",
+            "Nivel" : "Universidad",
+            "Categoria" : "Administración de empresas",
+            "Materia" : "Teoría de la Administración"
+        }
+    ],
+    "numero" : 5505,
+    "telefono" : 6566427291.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c5c8ee3622669232ecc170d",
+    "nombre" : "Ivan ",
+    "apaterno" : "Arellano ",
+    "amaterno" : "Plascencia ",
+    "fechanac" : "09 Septiembre 1994 ",
+    "sexo" : "Masculino",
+    "email" : "ivan_med.uag@outlook.com",
+    "calle" : "Manuel M. Dieguez ",
+    "colonia" : "Villa del Country ",
+    "cp" : 44620,
+    "ocupacion" : "Profesionista",
+    "ciudad" : "Jalisco",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c5c8ee3622669232ecc170f",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Ciencias experimentales",
+            "Materia" : "Biología I"
+        }, 
+        {
+            "_id" : "ObjectId:5c5c8ee3622669232ecc170e",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Ciencias experimentales",
+            "Materia" : "Biología II"
+        }
+    ],
+    "numero" : 900,
+    "telefono" : 3318501345.0,
+    "__v" : 0
+}
+,
+{
+    "_id" : "ObjectId:5c5cbd68622669232ecc1710",
+    "nombre" : "Diana Laura",
+    "apaterno" : "Torres",
+    "amaterno" : "Suárez",
+    "fechanac" : "1995-07-14",
+    "sexo" : "Femenino",
+    "email" : "14.dianatorres@gmail.com",
+    "calle" : "Rancho la tablada",
+    "colonia" : "Pradera Dorada",
+    "cp" : 32618,
+    "ocupacion" : "Estudiante Universitario",
+    "ciudad" : "CH",
+    "materias" : [ 
+        {
+            "_id" : "ObjectId:5c5cbd68622669232ecc1714",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles I"
+        }, 
+        {
+            "_id" : "ObjectId:5c5cbd68622669232ecc1713",
+            "Nivel" : "Bachillerato tecnológico",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles I"
+        }, 
+        {
+            "_id" : "ObjectId:5c5cbd68622669232ecc1712",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles V"
+        }, 
+        {
+            "_id" : "ObjectId:5c5cbd68622669232ecc1711",
+            "Nivel" : "Bachillerato general",
+            "Categoria" : "Inglés",
+            "Materia" : "Ingles III"
+        }
+    ],
+    "numero" : 3318,
+    "telefono" : 6566077530.0,
+    "__v" : 0
+}
+]

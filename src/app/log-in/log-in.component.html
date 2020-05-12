@@ -1,0 +1,48 @@
+
+
+<div class="wrapper fadeInDown">
+
+  <div id="formContent" class="row">
+
+    <div class="card-body">
+        <!-- Icon -->
+      <div class="fadeIn first" >
+        <img src="/assets/img/tichwebfinal-1.png" id="icon" alt="User Icon" />
+      </div>
+  
+      <h2>Administrador</h2>
+  
+        <!--Form-->
+      <form [formGroup]="loginForm" (ngSubmit)="inicioSesion(email.value, password.value)">
+
+          <div class="form-group">
+              <input type="text" #email formControlName="email" class="fadeIn second" placeholder="Correo electrónico" [ngClass]="{'is-invalid': submitted && f.correo.errors }"/>
+              <div *ngIf="submitted && f.correo.errors" class="invalid-feedback">
+                  <div *ngIf="f.correo.errors.required">El correo es requerido.</div>
+              </div>
+          </div>
+
+          <div class="form-group">
+              <input type="password" #password formControlName="password" class="fadeIn second" placeholder="Contraseña"  [ngClass]="{ 'is-invalid': submitted && f.password.errors }" />
+              <div *ngIf="submitted && f.password.errors" class="invalid-feedback">
+                  <div *ngIf="f.password.errors.required">La contraseña es requerida</div>
+              </div>
+          </div>
+
+          <div class="form-group">
+              <button [disabled]="loading"  class="btn btn-warning" >Iniciar Sesión</button>
+          </div>
+
+          <div id="login_Message" style="visibility:hidden; margin-bottom: 2em">
+            <a href="">Error en la contrasena</a>
+          </div>
+
+      </form>
+  
+      <!--Recordar Pass-->
+      <div id="formFooter">
+        <a class="underlineHover" href="">Olvidaste tu contraseña?</a>
+      </div>
+    </div>
+  </div>
+</div>
