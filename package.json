@@ -34,7 +34,7 @@
     "datatables.net-select-bs": "^1.2.7",
     "ember-cli-cors": "0.0.2",
     "jquery": "^3.3.1",
-    "jszip": "^3.2.0",
+    "jszip": "^3.7.0",
     "pdfmake": "^0.1.53",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
